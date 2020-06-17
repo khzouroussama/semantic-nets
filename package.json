@@ -1,0 +1,14 @@
+{
+  "name": "tp3-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ." ,
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "oussama",
+  "license": "ISC" ,
+  "bin": "./index.js"
+}
